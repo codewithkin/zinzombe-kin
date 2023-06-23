@@ -22,7 +22,7 @@ I believe that great things come from the mind of men, and by giving them the to
 * ![ExpressJS](https://img.shields.io/badge/-ExpressJS-blue.svg) Express
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow.svg) JavaScript
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinzombe-kin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinzombe-kin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚧 I am currently working on 
 [![Bloggy](https://github-readme-stats.vercel.app/api/pin/?username=zinzombe-kin&repo=bloggy)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,3 +37,6 @@ I believe that great things come from the mind of men, and by giving them the to
 * Algorithms
 * Data Structures
 * JavaScript
+
+## Wakatime
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zinzombe-kin)](https://github.com/anuraghazra/github-readme-stats)

@@ -39,4 +39,4 @@ I believe that great things come from the mind of men, and by giving them the to
 * JavaScript
 
 ## Wakatime
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zinzombe-kin)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zinzombe_kin)](https://github.com/anuraghazra/github-readme-stats)

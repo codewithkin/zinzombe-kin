@@ -25,7 +25,7 @@ I believe that great things come from the mind of men, and by giving them the to
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinzombe-kin&layout=donut)](https://github.com/zinzombe-kin)
 
 ## 🚧 I am currently working on 
-[![Bloggy](https://github-readme-stats.vercel.app/api/pin/?username=zinzombe-kin&repo=bloggy)](https://github.com/zinzombe-kin/bloggy
+[![Bloggy](https://github-readme-stats.vercel.app/api/pin/?username=zinzombe-kin&repo=bloggy)](https://github.com/zinzombe-kin/bloggy)
 
 ## Ask me about
 * Web development

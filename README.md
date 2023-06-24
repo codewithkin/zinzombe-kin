@@ -5,7 +5,7 @@ I am a passionate developer who loves BUILDING. I first started learning softwar
 
 I believe that great things come from the mind of men, and by giving them the tools to make those ideas a reality, a new world of possibilities is unlocked.
 
-[![Kin Leon Zinzombe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinzombe-kin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Kin Leon Zinzombe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinzombe-kin&show_icons=true&theme=radical)](https://github.com/zinzombe-kin)
 
 ## What I love doing
 * 👨‍💻 Coding
@@ -22,10 +22,10 @@ I believe that great things come from the mind of men, and by giving them the to
 * ![ExpressJS](https://img.shields.io/badge/-ExpressJS-blue.svg) Express
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow.svg) JavaScript
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinzombe-kin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinzombe-kin&layout=donut)](https://github.com/zinzombe-kin)
 
 ## 🚧 I am currently working on 
-[![Bloggy](https://github-readme-stats.vercel.app/api/pin/?username=zinzombe-kin&repo=bloggy)](https://github.com/anuraghazra/github-readme-stats)
+[![Bloggy](https://github-readme-stats.vercel.app/api/pin/?username=zinzombe-kin&repo=bloggy)](https://github.com/zinzombe-kin/bloggy
 
 ## Ask me about
 * Web development
@@ -39,4 +39,4 @@ I believe that great things come from the mind of men, and by giving them the to
 * JavaScript
 
 ## Wakatime
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zinzombe_kin)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zinzombe_kin)](https://wakatime.com/@zinzombe_kin)

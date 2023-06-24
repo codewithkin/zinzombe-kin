@@ -1,3 +1,6 @@
+<img src="https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" 
+  style="width: 100%"
+  />
 ![What I love doing.](https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60)
 # Hi 👋 My name is Kin
 I am a passionate developer who loves BUILDING. I first started learning software development back in 2020 during the lockdown and it has been an amazing ride since then.
